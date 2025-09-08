@@ -17,3 +17,5 @@ git clone https://github.com/KunalHS/kunalkaterminal ~/.config/starship/
 eval "$(starship init zsh)"
 export STARSHIP_CONFIG=~/.config/starship/starship.toml
 ```
+
+[img](./ss.png)
